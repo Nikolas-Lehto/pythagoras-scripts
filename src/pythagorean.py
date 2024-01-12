@@ -8,4 +8,4 @@ def calc(point: tuple((int, int))):
 
 def approx(point:tuple((int,int))):
     """Function for approximating pythagorean theorem"""
-    return 7/8* point[0] + point[1]/2
+    return 7/8* point[0] + point[1]/2   # 7/8 * cathetus
