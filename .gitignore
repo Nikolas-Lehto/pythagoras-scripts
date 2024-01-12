@@ -1,0 +1,6 @@
+# Precompiled stuff
+*.pyc
+
+# VENV
+.venv
+.venv.bak
